@@ -25,7 +25,7 @@ SECRET_KEY = 'sgn+a9t^yw99-z&1t5vz(@2w#9$be6xexlh5(@)6a*%6gq0do-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['news-app-iknz.onrender.com']
 
 
 # Application definition
