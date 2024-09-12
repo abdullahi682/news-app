@@ -145,4 +145,7 @@ EMAIL_HOST_PASSWORD = 'sendgrid_password'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
-TIME_ZONE = 'Africa/Nairobi' # new
+TIME_ZONE = 'Africa/Nairobi' # new 
+
+
+
