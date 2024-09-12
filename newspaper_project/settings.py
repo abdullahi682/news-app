@@ -147,5 +147,5 @@ EMAIL_USE_TLS = True
 
 TIME_ZONE = 'Africa/Nairobi' # new 
 
-
+CSRF_TRUSTED_ORIGINS = ['https://news-app-iknz.onrender.com/']
 
